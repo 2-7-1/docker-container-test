@@ -1,4 +1,4 @@
-package com.rest.microservices.limitsservice;
+package com.rest.microservices.dockercontainertest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class LimitsServiceApplicationTests {
+public class DockerContainerTestApplicationTests {
 
 	@Test
 	public void contextLoads() {
